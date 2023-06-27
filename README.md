@@ -1,7 +1,7 @@
 # Simulación acto graduación
 ## Tabla de contenido
 
-* [Planteamiento del problema](planteamiento-del-problema)
+* [Planteamiento del problema](#planteamiento-del-problema)
 
 * [Objetivo General](#objetivo-general)
 * [Objetivos Específicos ](#objetivos-específicos)
@@ -215,3 +215,5 @@ En ese mismo contexto, algunos factores para utilizar en un modelo futuro:
 - Desastre natural.
 - Los tiempos que se pierden entre cada etapa de la ceremonia.
 - Mal clima.
+
+Notebook con la simualción ![aquí](#simulación-acto-graduación)
