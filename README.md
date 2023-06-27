@@ -216,4 +216,5 @@ En ese mismo contexto, algunos factores para utilizar en un modelo futuro:
 - Los tiempos que se pierden entre cada etapa de la ceremonia.
 - Mal clima.
 
-Notebook con la simualción ![aquí](#simulación-acto-graduación)
+Notebook con la simualción 
+[aquí](#simulación-acto-graduación)
