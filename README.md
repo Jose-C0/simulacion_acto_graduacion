@@ -17,7 +17,7 @@
 
   * [5.	Resolver el modelo.](#5-resolver-el-modelo)
 
-  * [6.	Verificar e interpretar la solución del mode.](#6-verificar-e-interpretar-la-solución-del-modelo)
+  * [6.	Verificar e interpretar la solución del modelo.](#6-verificar-e-interpretar-la-solución-del-modelo)
 
   * [7.	Análisis de los resultados.](#7-análisis-de-los-resultados)
 
